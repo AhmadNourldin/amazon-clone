@@ -161,6 +161,12 @@
         width: 15rem !important;
     }
 }
+/* curser problems */
+@media (max-width:500px) {
+    *{
+        cursor:default !important;
+    }
+}
 /* Size Problems*/
 @media (max-width:1127px) {
     main .products{
