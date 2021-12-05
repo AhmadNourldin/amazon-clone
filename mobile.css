@@ -153,6 +153,17 @@
 }
 @media (max-width:660px) {
     .cards .card{
-        width: 19rem !important;
+        width: 16rem !important;
+    }
+}
+@media (max-width:301px) {
+    .cards .card{
+        width: 15rem !important;
+    }
+}
+/* Size Problems*/
+@media (max-width:1127px) {
+    main .products{
+        width: 100%;
     }
 }
