@@ -21,6 +21,7 @@
 /* Track */
 ::-webkit-scrollbar-track {
   background: var(--background-product-section); 
+  margin: 0.19rem 0rem;
 }
  
 /* Handle */
